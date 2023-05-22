@@ -1,0 +1,19 @@
+{
+  "name": "udemy_dsa_cpp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shishir435/Cpp.git"
+  },
+  "author": "Shishir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shishir435/Cpp/issues"
+  },
+  "homepage": "https://github.com/Shishir435/Cpp#readme"
+}
